@@ -1,0 +1,11 @@
+/env
+__pycache__/
+*.pyc
+/template
+/output
+/hasil-gambar
+/build_env
+*.spec
+/dist
+/build
+test_tk.py
